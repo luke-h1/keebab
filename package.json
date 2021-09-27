@@ -2,7 +2,7 @@
   "name": "keebab",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": {
     "name": "Luke Howsam",
     "email": "luke.howsam54@gmail.com",
