@@ -4,7 +4,6 @@
 
 [![CI / build](https://github.com/luke-h1/keebab/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/kebab/actions/workflows/build.yml)
 
-[![CI / build](https://github.com/luke-h1/kebab/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/kebab/actions/workflows/build.yml)
 
 > Give me a normal string and I will kebabify it! 
 
