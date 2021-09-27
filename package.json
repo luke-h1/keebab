@@ -1,5 +1,5 @@
 {
-  "name": "kebab",
+  "name": "keebab",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luke-h1/kebab.git"
+    "url": "git+https://github.com/luke-h1/keebab.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luke-h1/kebab/issues"
+    "url": "https://github.com/luke-h1/keebab/issues"
   },
-  "homepage": "https://github.com/luke-h1/kebab#readme",
+  "homepage": "https://github.com/luke-h1/keebab#readme",
   "devDependencies": {
     "@babel/preset-typescript": "^7.15.0",
     "@testing-library/jest-dom": "^5.14.1",

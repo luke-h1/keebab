@@ -1,8 +1,8 @@
-import kebab from '../index'
+import keebab from '../index'
 
 describe('Acceptance', () => {
   it('kebabs case', () => {
-    const myString = kebab('Hello World!');
+    const myString = keebab('Hello World!');
     expect(myString).toBe('Hello-World!');
   });
 });

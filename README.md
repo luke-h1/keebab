@@ -1,6 +1,8 @@
-[![gzip size](https://badgen.net/bundlephobia/minzip/kebab)](https://bundlephobia.com/result?p=kebab)
+[![gzip size](https://badgen.net/bundlephobia/minzip/kebab)](https://bundlephobia.com/result?p=keebab)
 
-[![install size](https://packagephobia.now.sh/badge?p=kebab)](https://packagephobia.now.sh/result?p=kebab)
+[![install size](https://packagephobia.now.sh/badge?p=keebab)](https://packagephobia.now.sh/result?p=keebab)
+
+[![CI / build](https://github.com/luke-h1/keebab/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/kebab/actions/workflows/build.yml)
 
 [![CI / build](https://github.com/luke-h1/kebab/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/kebab/actions/workflows/build.yml)
 
@@ -12,16 +14,16 @@
 
 ## Install 
 ```
-npm install kebab 
+npm install keebab
 ```
 
 ## usage 
 ```
-import kebab from "kebab";
+import keebab from "keebab";
 
 const str = "Hello World" 
 
-kebab(str) // => returns Hello-World
+keebab(str) // => returns Hello-World
 ```
 
 ## API 
@@ -29,5 +31,5 @@ kebab(str) // => returns Hello-World
 function (input: string): string {} 
 ```
 
-### kebab(value) 
+### keebab(value) 
 Throws a type error if the provided values is not a string
