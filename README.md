@@ -1,6 +1,7 @@
 [![gzip size](https://badgen.net/bundlephobia/minzip/kebab)](https://bundlephobia.com/result?p=kebab)
 
 [![install size](https://packagephobia.now.sh/badge?p=kebab)](https://packagephobia.now.sh/result?p=kebab)
+[![CI / build](https://github.com/luke-h1/kebab/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/kebab/actions/workflows/build.yml)
 
 > Give me a normal string and I will kebabify it! 
 
