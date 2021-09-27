@@ -1,0 +1,24 @@
+name: CI / build
+on:
+  - push
+  - pull_request
+jobs:
+  test:
+    name: Node.js ${{ matrix.node-version }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version:
+          - 16
+          - 14
+          - 12
+    steps:
+      - uses: luke-h1/checkout@v2
+      - uses: luke-h1/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm ci
+      - run: npm test
+      - run: npm run tsc
+

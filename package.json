@@ -1,0 +1,43 @@
+{
+  "name": "kebab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Luke Howsam",
+    "email": "luke.howsam54@gmail.com",
+    "url": "https://lhowsam.com"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-h1/kebab.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luke-h1/kebab/issues"
+  },
+  "homepage": "https://github.com/luke-h1/kebab#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.15.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@types/jest": "^27.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "babel-jest": "^27.2.2",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "jest": "^27.2.2",
+    "jest-junit": "^12.3.0",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.3"
+  }
+}
