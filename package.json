@@ -1,6 +1,6 @@
 {
   "name": "keebab",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "author": {
@@ -20,7 +20,7 @@
     "url": "git+https://github.com/luke-h1/keebab.git"
   },
   "keywords": [],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/luke-h1/keebab/issues"
   },
