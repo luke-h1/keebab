@@ -1,4 +1,4 @@
-import keebab from '../index'
+import keebab from '../index';
 
 describe('Acceptance', () => {
   it('kebabs case', () => {
